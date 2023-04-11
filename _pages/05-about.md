@@ -18,7 +18,7 @@ peter:
 
 markus:
 - title: "Markus Meuten"
-  image_path: images/about/MarkusMeuten.webp
+  image_path: images/about/Markus.webp
   excerpt: "Geschäftsführer der [Agile Experts](https://agile-experts.ch/), Product Owner für das IREB Projekt „RE@Agile“
   und Co-Autor des Curriculums des RE@Agile-Primers und des Advanced Levels „RE@Agile“. 
   Mit Agile Experts seit Jahren unterwegs, um Unternehmen bei der Umstellung auf agile Methoden zu unterstützen. 
